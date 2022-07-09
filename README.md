@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @owngrrr
+- 👀 I’m interested in TypeScript, NestJS, React, Vue and also interested in software architecture and algorythms. 
+- 🌱 I’m currently learning NestJS
